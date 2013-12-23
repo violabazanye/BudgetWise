@@ -65,21 +65,24 @@
 						<div class="row">
 							<div class="4u">
 								<section class="box box-style1">
-									<span class="fa featured fa-comments-o"></span>
+								<!--	<span class="fa featured fa-comments-o"></span>-->
+								<span class="image"><img src="images/budgeter.png" alt="budgeter icon" /></span>
 									<h3>Budgeter</h3>
 									<p>Calculates your daily expenses and shows you how much you have left over to spend.</p>
 								</section>
 							</div>
 							<div class="4u">
 								<section class="box box-style1">
-									<span class="fa featured fa-file-o"></span>
+								<!--	<span class="fa featured fa-file-o"></span>-->
+								<span class="image"><img src="images/mywallet.png" alt="mywallet icon" /></span>
 									<h3>MyWallet</h3>
 									<p>View a report of your past expenses.</p>
 								</section>
 							</div>
 							<div class="4u">
 								<section class="box box-style1">
-									<span class="fa featured fa-thumbs-o-up"></span>
+								<!--	<span class="fa featured fa-thumbs-o-up"></span> -->
+								<span class="image"><img src="images/wishlist.png" alt="wishlist icon" /></span>
 									<h3>WishList</h3>
 									<p>Add items that you wish to buy later when you have saved up enough money.</p>
 								</section>
@@ -201,13 +204,13 @@
 						</div> -->
 						<div class="row">
 							<div class="12u">
-								<hr />
+							<!--	<hr /> -->
 								<h3>Find me on ...</h3>
 								<ul class="social">
 									<li class="twitter"><a href="https://twitter.com/violablackout" class="fa fa-twitter"><span>Twitter</span></a></li>
 									<li class="facebook"><a href="https://www.facebook.com/viola.bazanye" class="fa fa-facebook"><span>Facebook</span></a></li>
-									<li class="linkedin"><a href="ug.linkedin.com/pub/viola-bazanye/3b/91a/359/" class="fa fa-linkedin"><span>LinkedIn</span></a></li>
-									<li class="googleplus"><a href="google.com/+ViolaBazanye" class="fa fa-google-plus"><span>Google+</span></a></li>
+									<li class="linkedin"><a href="http://ug.linkedin.com/pub/viola-bazanye/3b/91a/359/" class="fa fa-linkedin"><span>LinkedIn</span></a></li>
+									<li class="googleplus"><a href="http://google.com/+ViolaBazanye" class="fa fa-google-plus"><span>Google+</span></a></li>
 									<li class="github"><a href="https://github.com/violabazanye/" class="fa fa-github"><span>Github</span></a></li>
 									<li class="instagram"><a href="http://instagram.com/viola_bazanye/#" class="fa fa-instagram"><span>Instagram</span></a></li>
 									<li class="foursquare"><a href="https://foursquare.com/violablackout" class="fa fa-foursquare"><span>Foursquare</span></a></li>
