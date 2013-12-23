@@ -30,8 +30,9 @@
 				<ul class="container">
 					<li><a href="#top">Home</a></li>
 					<li><a href="#work">Features</a></li>
-					<li><a href="#portfolio">ScreenShots</a></li>
+				<!--	<li><a href="#portfolio">ScreenShots</a></li>-->
 					<li><a href="#contact">Contact</a></li>
+					<li><a href="BudgetWise - Privacy policy.pdf">Privacy policy</a></li>
 				</ul>
 			</nav>
 
@@ -40,7 +41,7 @@
 				<article class="container" id="top">
 					<div class="row">
 						<div class="4u">
-							<span class="me image image-full"><img src="images/logo.jpg" alt="" /></span>
+							<span class="me image image-full"><img src="images/logo.jpg" alt="budgetwise logo" /></span>
 						</div>
 						<div class="8u">
 							<header>
@@ -65,35 +66,35 @@
 							<div class="4u">
 								<section class="box box-style1">
 									<span class="fa featured fa-comments-o"></span>
-									<h3>Consequat lorem</h3>
-									<p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+									<h3>Budgeter</h3>
+									<p>Calculates your daily expenses and shows you how much you have left over to spend.</p>
 								</section>
 							</div>
 							<div class="4u">
 								<section class="box box-style1">
 									<span class="fa featured fa-file-o"></span>
-									<h3>Lorem dolor tempus</h3>
-									<p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+									<h3>MyWallet</h3>
+									<p>View a report of your past expenses.</p>
 								</section>
 							</div>
 							<div class="4u">
 								<section class="box box-style1">
 									<span class="fa featured fa-thumbs-o-up"></span>
-									<h3>Feugiat posuere</h3>
-									<p>Ornare nulla proin odio consequat sapien vestibulum ipsum primis sed amet consequat lorem dolore.</p>
+									<h3>WishList</h3>
+									<p>Add items that you wish to buy later when you have saved up enough money.</p>
 								</section>
 							</div>
 						</div>
 					</div>
 					<footer>
-						<p>Lorem ipsum dolor sit sapien vestibulum ipsum primis?</p>
-						<a href="#portfolio" class="button button-big">See the app in action</a>
+						<p>Want more information about the application?</p>
+						<a href="#contact" class="button button-big">Get in touch with the developer</a>
 					</footer>
 				</article>
 			</div>
 
 		<!-- Portfolio -->
-			<div class="wrapper wrapper-style3">
+	<!--		<div class="wrapper wrapper-style3">
 				<article id="portfolio">
 					<header>
 						<h2>Awesome work makes happy clients.</h2>
@@ -156,17 +157,17 @@
 						<a href="#contact" class="button button-big">Get in touch with the developer</a>
 					</footer>
 				</article>
-			</div>
+			</div>-->
 
 		<!-- Contact -->
 			<div class="wrapper wrapper-style4">
 				<article id="contact" class="container small">
 					<header>
 						<h2>Want to reach me? Get in touch!</h2>
-						<span>Ornare nulla proin odio consequat sapien vestibulum ipsum sed lorem.</span>
+				<!--		<span>Ornare nulla proin odio consequat sapien vestibulum ipsum sed lorem.</span> -->
 					</header>
 					<div>
-						<div class="row">
+				<!--		<div class="row">
 							<div class="12u">
 								<form method="post" action="#">
 									<div>
@@ -197,29 +198,29 @@
 									</div>
 								</form>
 							</div>
-						</div>
+						</div> -->
 						<div class="row">
 							<div class="12u">
 								<hr />
 								<h3>Find me on ...</h3>
 								<ul class="social">
-									<li class="twitter"><a href="http://twitter.com/n33co" class="fa fa-twitter"><span>Twitter</span></a></li>
-									<li class="facebook"><a href="#" class="fa fa-facebook"><span>Facebook</span></a></li>
-									<li class="dribbble"><a href="http://dribbble.com/n33" class="fa fa-dribbble"><span>Dribbble</span></a></li>
-									<li class="linkedin"><a href="#" class="fa fa-linkedin"><span>LinkedIn</span></a></li>
-									<li class="tumblr"><a href="#" class="fa fa-tumblr"><span>Tumblr</span></a></li>
-									<li class="googleplus"><a href="#" class="fa fa-google-plus"><span>Google+</span></a></li>
-									<li class="github"><a href="http://github.com/n33" class="fa fa-github"><span>Github</span></a></li>
+									<li class="twitter"><a href="https://twitter.com/violablackout" class="fa fa-twitter"><span>Twitter</span></a></li>
+									<li class="facebook"><a href="https://www.facebook.com/viola.bazanye" class="fa fa-facebook"><span>Facebook</span></a></li>
+									<li class="linkedin"><a href="ug.linkedin.com/pub/viola-bazanye/3b/91a/359/" class="fa fa-linkedin"><span>LinkedIn</span></a></li>
+									<li class="googleplus"><a href="google.com/+ViolaBazanye" class="fa fa-google-plus"><span>Google+</span></a></li>
+									<li class="github"><a href="https://github.com/violabazanye/" class="fa fa-github"><span>Github</span></a></li>
+									<li class="instagram"><a href="http://instagram.com/viola_bazanye/#" class="fa fa-instagram"><span>Instagram</span></a></li>
+									<li class="foursquare"><a href="https://foursquare.com/violablackout" class="fa fa-foursquare"><span>Foursquare</span></a></li>
 									<!--
 									<li class="rss"><a href="#" class="fa fa-rss"><span>RSS</span></a></li>
-									<li class="instagram"><a href="#" class="fa fa-instagram"><span>Instagram</span></a></li>
-									<li class="foursquare"><a href="#" class="fa fa-foursquare"><span>Foursquare</span></a></li>
-									<li class="skype"><a href="#" class="fa fa-skype"><span>Skype</span></a></li>
 									<li class="soundcloud"><a href="#" class="fa fa-soundcloud"><span>Soundcloud</span></a></li>
 									<li class="youtube"><a href="#" class="fa fa-youtube"><span>YouTube</span></a></li>
 									<li class="blogger"><a href="#" class="fa fa-blogger"><span>Blogger</span></a></li>
 									<li class="flickr"><a href="#" class="fa fa-flickr"><span>Flickr</span></a></li>
 									<li class="vimeo"><a href="#" class="fa fa-vimeo"><span>Vimeo</span></a></li>
+									<li class="dribbble"><a href="http://dribbble.com/n33" class="fa fa-dribbble"><span>Dribbble</span></a></li>
+									<li class="tumblr"><a href="#" class="fa fa-tumblr"><span>Tumblr</span></a></li>
+									<li class="skype"><a href="#" class="fa fa-skype"><span>Skype</span></a></li>
 									-->
 								</ul>
 								<hr />
