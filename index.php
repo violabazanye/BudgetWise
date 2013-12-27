@@ -47,7 +47,7 @@
 							<header>
 								<h1><strong>BudgetWise</strong></h1>
 							</header>
-							<p>This is a Windows application, that is free for <strong><a href="#">download</a></strong>. Budget your daily expenses, wisely and efficiently with this awesome application.</p> <!--<a href="http://n33.co/">AJ</a> for <a href="http://html5up.net/">HTML5 UP</a> &amp; released under the <a href="http://html5up.net/license/">CCA license</a>.</p> -->
+							<p>This is a Windows application, that is free for <strong><a href="http://apps.microsoft.com/windows/app/budgetwise/6c9d33ce-449a-4f87-921f-b212e4adacd5">download</a></strong>. Budget your daily expenses, wisely and efficiently with this awesome application.</p> <!--<a href="http://n33.co/">AJ</a> for <a href="http://html5up.net/">HTML5 UP</a> &amp; released under the <a href="http://html5up.net/license/">CCA license</a>.</p> -->
 							<a href="#work" class="button button-big">Learn about what it does</a>
 						</div>
 					</div>
