@@ -1,0 +1,10 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\program files\microsoft sdks\live\v5.5\windows store app xaml\references\commonconfiguration\neutral\microsoft.live.dll" HashGuid="035fef31-110d-14b6-b574-790e84e2279a" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\budgetwise\packages\windowsazure.mobileservices.1.1.1\lib\netcore45\microsoft.windowsazure.mobile.dll" HashGuid="b13126d9-a6c1-7127-8c45-45e6179c1cb9" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\budgetwise\packages\windowsazure.mobileservices.1.1.1\lib\netcore45\microsoft.windowsazure.mobile.ext.dll" HashGuid="dca1ec5a-5f36-27b9-f27b-6bc6a6f62758" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\budgetwise\packages\newtonsoft.json.5.0.8\lib\netcore45\newtonsoft.json.dll" HashGuid="fccaaf2a-e039-795e-45a4-59ce84d1518d" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\budgetwise\packages\microsoft.net.http.2.2.18\lib\win8\system.net.http.extensions.dll" HashGuid="b50282f8-b9f8-4408-8d49-ba2efe301624" />
+    <ReferenceAssembly PathName="c:\users\v-vibaza\documents\visual studio 2013\projects\budgetwise\packages\microsoft.net.http.2.2.18\lib\win8\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

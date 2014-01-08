@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NAI-BRIANAP</Machine>
+    <WindowsUser>v-vibaza</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>25314ViolaBazanye.BudgetWise</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\BudgetWise.exe">
+      <PackagePath>BudgetWise.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files\Microsoft SDKs\Live\v5.5\Windows Store app XAML\References\CommonConfiguration\Neutral\Microsoft.Live.dll">
+      <PackagePath>Microsoft.Live.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\packages\WindowsAzure.MobileServices.1.1.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\packages\WindowsAzure.MobileServices.1.1.1\lib\netcore45\Microsoft.WindowsAzure.Mobile.Ext.dll">
+      <PackagePath>Microsoft.WindowsAzure.Mobile.Ext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\packages\Newtonsoft.Json.5.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\packages\Microsoft.Net.Http.2.2.18\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\packages\Microsoft.Net.Http.2.2.18\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\Images\budgeter.png">
+      <PackagePath>Images\budgeter.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\Images\mywallet.png">
+      <PackagePath>Images\mywallet.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\Images\wishlist.png">
+      <PackagePath>Images\wishlist.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\Images\background-wallpaper-hd-white.jpg">
+      <PackagePath>Images\background-wallpaper-hd-white.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\Images\background.jpg">
+      <PackagePath>Images\background.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\About.xbf">
+      <PackagePath>About.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\Account.xbf">
+      <PackagePath>Account.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\Budgeter.xbf">
+      <PackagePath>Budgeter.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\MyWallet.xbf">
+      <PackagePath>MyWallet.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\Privacy.xbf">
+      <PackagePath>Privacy.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\WishList.xbf">
+      <PackagePath>WishList.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\v-vibaza\documents\visual studio 2013\Projects\BudgetWise\BudgetWise\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
